@@ -1,2 +1,2 @@
-# os212
 Repositori OS
+Nama	: Hakim Amarullah
