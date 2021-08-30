@@ -1,0 +1,7 @@
+[HOME](.) | [LOG](TXT/mylog.txt)
+
+# Hello, OS!
+## I am Hakim Amarullah, this is my github page for OS 2021/2022 course
+
+Here is the link to my assignments every week:
+W00 : [link](www.youtube.com)
