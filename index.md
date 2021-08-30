@@ -5,6 +5,4 @@
 
 Here is the link to my assignments every week:  
 
-<ul>
-	<li>[W00](.)</li>
-<ul>
+- [W00](.)
