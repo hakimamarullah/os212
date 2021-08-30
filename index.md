@@ -1,3 +1,5 @@
+<DOCTYPE html!>
+<html>
 [HOME](.) | [LOG](TXT/mylog.txt)
 
 # Hello, OS!
@@ -6,4 +8,5 @@
 Here is the link to my assignments every week:<br>
 <ul>
 	<li><a href="www.youtube.com">W00</a></li>
-</ul>
+<ul>
+	<html>
