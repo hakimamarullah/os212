@@ -6,5 +6,5 @@
 Here is the link to my assignments every week:  
 
 <ul>
-	<li><a href=(.)>W00</a></li>
+	<li>[W00](.)</li>
 <ul>
