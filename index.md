@@ -1,7 +1,6 @@
 <nav class="navbar">
   <ul>
     <li class='listitem'><a href='{{ site.baseurl }}/'>HOME</a></li>
-    <li class='listitem'><a href='{{ site.baseurl }}/000.html'>LISTING</a></li>
     <li class='listitem'><a href='{{ site.baseurl }}/LINKS/'>LINKS</a></li>
     <li class='listitem'><a href='{{ site.baseurl }}/TIPS/'>TIPS</a></li>
     <li class='listitem'><a href='{{ site.baseurl }}/TXT/mypubkey.txt'>KEY</a></li>
