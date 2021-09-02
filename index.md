@@ -1,4 +1,21 @@
-| [**HOME**]() | [**LOG**](TXT/mylog.txt) | [**Links**](LINKS) |
 
-# Hello, OS!
-## I am Hakim Amarullah, this is my github page for OS 2021/2022 course
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Hello, I'm Captain!</h1>
+        <h3>Repository of OS Subject</h3>
+        <ul>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/TXT/mylog.txt">Log</a></li>
+          <li><a href="{{ site.baseurl }}/LINKS">Links</a></li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
