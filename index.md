@@ -10,7 +10,7 @@
         <ul class="menu">
           <li><a href="{{ site.baseurl }}/">Home</a></li>
           <li><a href="{{ site.baseurl }}/TXT/mylog.txt">Log</a></li>
-          <li><a href="{{ site.baseurl }}/LINKS">Links</a></li>
+          <li><a href="{{ site.baseurl }}/LINKS">Link</a></li>
         </ul>
       </div>
     </div>
