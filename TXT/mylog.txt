@@ -1,5 +1,3 @@
-| [**HOME**]() | [**LOG**](TXT/mylog.txt) | [**Links**](LINKS) |
-
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
