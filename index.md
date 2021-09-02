@@ -7,8 +7,8 @@
       <div class="header">
         <h1>Hello, I'm Captain!</h1>
         <h3>Repository of OS Subject</h3>
-        <ul>
-          <li class=""><a href="{{ site.baseurl }}/">Home</a></li>
+        <ul class="menu">
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
           <li><a href="{{ site.baseurl }}/TXT/mylog.txt">Log</a></li>
           <li><a href="{{ site.baseurl }}/LINKS">Links</a></li>
         </ul>
