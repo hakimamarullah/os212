@@ -1,38 +1,18 @@
-version:     ""
+version:     "August 2021"
 copyright:   "2021-2021"
 description:
   Operating System Assignment
 keywords:    "jekyll, testing, os"
-navbarlinks:
-- navbar:    "Home"
-  link:      "/"
-- navbar:    "Links"
-  link:      "/LINKS/"
-- navbar:    "Tips"
-  link:      "/TIPS/"
-- navbar:    "TarBall"
-  link:      "https://os.vlsm.org/Log/hakimamarullah.tar.bz2.txt"
-- navbar:    "GitHub"
-  link:      "https://github.com/hakimamarullah"
 title:       "OS212"
 lang:        "en-US"
 author:      "Hakim Amarullah"
 address:     "NONE"
 sitemap:     "true"
-defaults:
-- scope:
-    path:    ""
-  values:
-    layout:  "default"
 github:
-- metadata
+  - metadata
 plugins:
-- jekyll-sitemap
-- jekyll-seo-tag
-google_analytics: "UA-89852122-15"
-
+  - jekyll-sitemap
 urlweb:           "https://template.vlsm.org/"
-urlcontact:       ""
 urlgithub:        "https://github.com/hakimamarullah"
 
 
