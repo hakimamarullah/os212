@@ -1,18 +1,16 @@
+title:       "OS212"
 version:     "August 2021"
 copyright:   "2021-2021"
-description:
-  Operating System Assignment
-keywords:    "jekyll, testing, os"
-title:       "OS212"
-lang:        "en-US"
-author:      "Hakim Amarullah"
-address:     "NONE"
-sitemap:     "true"
-github:
-  - metadata
+description: >- 
+  Operating System Assignments
+author:           "Hakim Amarullah"
+address:          "NONE"
+sitemap:          "true"
 plugins:
   - jekyll-sitemap
-urlweb:           "https://template.vlsm.org/"
-urlgithub:        "https://github.com/hakimamarullah"
-
-
+urlweb:           "https://hakimamarullah.github.io/os212/"
+urlcontact:       "NONE"
+urlgithub:        "https://github.com/hakimamarullah/os212/"
+keywords:         "jekyll, os, testing"
+github:           
+  - metadata
