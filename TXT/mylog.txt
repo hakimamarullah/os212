@@ -5,5 +5,8 @@
 ZCZC W00 120 L00 General, etc.
 ZCZC W00 120 L02 ZOOM meetings related.
 ZCZC W00 60 L03 Github related.
-
+ZCZC W01 120 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 120 L02 ZOOM meetings related
+ZCZC W01 05 L05 Quiz
+ZCZC W01 60 L09 Assignmet in General
 
