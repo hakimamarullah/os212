@@ -1,28 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- File _layouts/layout.html           -->
-<!-- (c) 2021 - 2021 VauLSMorg           -->
-<!-- START: Wed 17 Feb 2021 19:44:53 WIB -->
-<!-- This is a free HTML file            -->
 {% include head.html %}
+
 <body class="plainclass">
-<!-- body class="backclass" -->
-<div class="container">
-  <header>
-  <div class="row">
-    <div class="column left">
-      <img src="{{ site.baseurl }}/assets/images/default.jpg" alt="Arch is the best distro" style="width:130px; border-radius:70%">
+    <div class="container">
+        <header>
+            <div class="row">
+                <div class="column left">
+                    <img src="{{ site.baseurl }}/assets/images/default.jpg" style="width:130px; border-radius:70%">
+                </div>
+                <div class="column right">
+                    <p>Operating System Page</p>
+                </div>
+            </div>
+        </header>
+        {% include navbar.html %}
+        <section>
+            {{ content }}
+        </section>
+        {% include footer.html %}
     </div>
-    <div class="column right">
-        <p>Operating System Page (os212)</p>
-    </div>
-  </div>
-  </header>
-  {% include navbar.html %}
-  <section>
-     {{ content }}
-  </section>
-  {% include footer.html %}
-</div>
 </body>
+
 </html>
