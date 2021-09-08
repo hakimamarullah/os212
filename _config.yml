@@ -1,11 +1,8 @@
-version:     "0018b--03-Aug-2021"
+version:     ""
 copyright:   "2021-2021"
 description:
-  This is a
-  GitHub Page Template
-disclaimer:
-  I have spoken.
-keywords:    "jekyll, testing"
+  Operating System Assignment
+keywords:    "jekyll, testing, os"
 navbarlinks:
 - navbar:    "Home"
   link:      "/"
@@ -13,20 +10,15 @@ navbarlinks:
   link:      "/LINKS/"
 - navbar:    "Tips"
   link:      "/TIPS/"
-- navbar:    "Zip File"
-  link:      "/template.zip"
 - navbar:    "TarBall"
-  link:      "/hakimamarullah.tar.bz2.txt"
+  link:      "https://os.vlsm.org/Log/hakimamarullah.tar.bz2.txt"
 - navbar:    "GitHub"
   link:      "https://github.com/hakimamarullah"
-- navbar:    "About"
-  link:      "/ABOUT/"
 title:       "OS212"
 lang:        "en-US"
 author:      "Hakim Amarullah"
-address:     "Depok"
+address:     "NONE"
 sitemap:     "true"
-markdown:    "kramdown"
 defaults:
 - scope:
     path:    ""
