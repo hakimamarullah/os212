@@ -19,135 +19,124 @@ body {
 
 /* See https://www.w3schools.com/colors/colors_hsl.asp              */
 /* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
-.plainclass{
-  color:            hsl(0, 100%, 100%);
-  background-color: hsl(0, 10%, 10%);
-  line-height:      120%;
-  font-family:      monospace,courier;
-}
-
-.plainclass li {
-  line-height:      140%;
-}
-
-.plainclass h1 {
-  color:            hsl(100, 50%, 50%);
-}
-
-.plainclass h2 {
-  color:            hsl(100, 50%, 50%);
-}
-
-.plainclass h3 {
-  color:            hsl(100, 50%, 50%);
-}
-
 .container {
-  max-width:    70%;
-  margin:       0 auto;
-  font-size:    1em;
-  text-align:   justify;
+    max-width: 70%;
+    margin: 0 auto;
+    font-size: 1em;
+    text-align: justify;
 }
 
-.container a {
-  color: #a0a0a0;
-}
-
-.container a:hover {
-  color: #f0f0f0;
-}
-
-.row {
-}
+.row {}
 
 .column {
-  float:            left;
-  display:          inline-block;
-  background:       #808080;
-  height:           130px;
-  width:            100%;
-  padding-top:      10px;
-  padding-bottom:   10px;
-  padding-left:     10px;
-  padding-right:    10px;
-  text-align:       left;
+    float: left;
+    display: inline-block;
+    background: #808080;
+    height: 130px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
 }
 
 .left {
-  width:            130px;
+    width: 130px;
 }
 
 .right {
-  height:           105px;
-  width:            calc(100% - 200px);
-  padding-top:      40px;
-  padding-bottom:   5px;
-  padding-left:     30px;
-  font-size:        1.4em;
-  font-weight:      bold;
+    height: 105px;
+    width: 50%;
+    padding-top: 40px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    font-size: 1.4em;
+    font-weight: bold;
 }
 
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
 
 .navbar {
-  font-size:        0.8em;
-  border-width:     0px;
-  margin:           0px;
-  background-color: #6f42c1;
+    font-size: 0.8em;
+    border-width: 0px;
+    margin: 0px;
+    background-color: #6f42c1;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 }
 
 .navbar ul li {
-  display:          inline-block;
-  padding:          11px;
+    display: block;
+    padding: .5rem 1rem;
+    color: #0d6efd;
 }
 
 .navbar ul li a {
-  text-decoration:  none;
+    text-decoration: none;
 }
 
 .navbar ul li a:hover {
-  background-color: hsla(255,   100%,   50%, 1);
-  font-size:        1.15em;
-  font-weight:      bold;
-  padding:          2px;
+    background-color: hsla(255, 100%, 50%, 1);
+    font-size: 1.15em;
+    font-weight: bold;
+    padding: 2px;
 }
 
 
+:root {
+    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --bs-body-font-family: var(--bs-font-sans-serif);
+    --bs-body-font-size: 1rem;
+    --bs-body-font-weight: 400;
+    --bs-body-line-height: 1.5;
+    --bs-body-color: #212529;
+}
 
 @media screen and (max-width:768px) {
-  ul {
-    margin: 0;
-    padding: 0;
-  }
-  #navbar ul li {
-    display: block;
-    width: 100%;
-    padding: 0;
-    margin: 0;
-    text-align: center;
-  }
-  #navbar ul li a {
-    margin: 0;
-    padding: 0;
-  }
-  #menu {
-    display: none;
-  }
-  #maincontent {
-    width: 100%;
-    padding: 0;
-  }
-  h1 {
-    font-size: 1em;
-  }
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    #navbar ul li {
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+
+    #navbar ul li a {
+        margin: 0;
+        padding: 0;
+    }
+
+    #menu {
+        display: none;
+    }
+
+    #maincontent {
+        width: 100%;
+        padding: 0;
+    }
+
+    h1 {
+        font-size: 1em;
+    }
 }
 
 /*
  ************************************************************
  */
-
-
