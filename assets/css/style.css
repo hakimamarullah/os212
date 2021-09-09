@@ -26,9 +26,6 @@ body {
     text-align: justify;
 }
 
-.row {
-  width: 100%;
-}
 
 .column {
     float: left;
@@ -44,7 +41,7 @@ body {
 }
 
 .left {
-    width: 50%;
+    width: 130px;
 }
 
 .right {
