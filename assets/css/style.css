@@ -127,6 +127,20 @@ pre {
         padding: 0;
     }
 
+    .left {
+        width: 50%;
+    }
+
+    .right {
+        height: 105px;
+        width: 50%;
+        padding-top: 25px;
+        padding-bottom: 5px;
+        padding-left: 20px;
+        font-size: 0.7em;
+        font-weight: bold;
+    }
+
     #menu {
         display: none;
     }
