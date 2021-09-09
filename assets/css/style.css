@@ -26,12 +26,14 @@ body {
     text-align: justify;
 }
 
-.row {}
+.row {
+  width: 100%;
+}
 
 .column {
     float: left;
     display: inline-block;
-    background: #808080;
+    background: #6f42c1;
     height: 130px;
     width: 100%;
     padding-top: 10px;
@@ -42,7 +44,7 @@ body {
 }
 
 .left {
-    width: 130px;
+    width: 50%;
 }
 
 .right {
@@ -53,12 +55,6 @@ body {
     padding-left: 30px;
     font-size: 1.4em;
     font-weight: bold;
-}
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
 }
 
 .navbar {
