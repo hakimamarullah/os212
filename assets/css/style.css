@@ -39,6 +39,11 @@ body {
     padding-right: 10px;
     text-align: left;
 }
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 .left {
     width: 130px;
@@ -59,9 +64,6 @@ body {
     border-width: 0px;
     margin: 0px;
     background-color: #6f42c1;
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     padding-top: .5rem;
