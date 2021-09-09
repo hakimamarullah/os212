@@ -1,36 +1,35 @@
-/*
- Shamelessly stolen from "Here, There, and Everywhere",
- including but not limited to "bootstrap", "stack overflow", 
- "Mike Dane", "w3schools", et al.
- */
-
-body {
-    margin: 0;
-    font-family: var(--bs-body-font-family);
-    font-size: var(--bs-body-font-size);
-    font-weight: var(--bs-body-font-weight);
-    line-height: var(--bs-body-line-height);
-    color: var(--bs-body-color);
-    text-align: var(--bs-body-text-align);
-    background-color: var(--bs-body-bg);
-    -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: transparent;
+.plainclass {
+    color: white;
+    background-color: #1a1a1a;
 }
 
-/* See https://www.w3schools.com/colors/colors_hsl.asp              */
-/* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
+.plainclass1 {
+    color: white;
+    background-color: white;
+}
+
 .container {
     max-width: 70%;
     margin: 0 auto;
     font-size: 1em;
+    font-family: verdana, arial, helvetica, san-serif;
     text-align: justify;
 }
 
+.container a {
+    color: #a0a0a0;
+}
+
+.container a:hover {
+    color: #f0f0f0;
+}
+
+.row {}
 
 .column {
     float: left;
     display: inline-block;
-    background: #6f42c1;
+    background: #0d6efd;
     height: 130px;
     width: 100%;
     padding-top: 10px;
@@ -39,11 +38,6 @@ body {
     padding-right: 10px;
     text-align: left;
 }
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 .left {
     width: 130px;
@@ -51,7 +45,7 @@ body {
 
 .right {
     height: 105px;
-    width: 50%;
+    width: calc(100% - 200px);
     padding-top: 40px;
     padding-bottom: 5px;
     padding-left: 30px;
@@ -59,21 +53,23 @@ body {
     font-weight: bold;
 }
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .navbar {
-    font-size: 0.8em;
-    border-width: 0px;
-    margin: 0px;
-    background-color: #6f42c1;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
+    background-color: #262626;
+    color: #d7d7d7;
+    font-size: 0.7em;
 }
 
 .navbar ul li {
-    display: block;
-    padding: .5rem 1rem;
-    color: #0d6efd;
+    display: inline-block;
+    padding: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .navbar ul li a {
@@ -81,23 +77,36 @@ body {
 }
 
 .navbar ul li a:hover {
-    background-color: hsla(255, 100%, 50%, 1);
-    font-size: 1.15em;
+    background: #ef2929;
+    color: #d7d7d7;
+    font-size: 1em;
     font-weight: bold;
-    padding: 2px;
 }
 
-
-:root {
-    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-    --bs-body-font-family: var(--bs-font-sans-serif);
-    --bs-body-font-size: 1rem;
-    --bs-body-font-weight: 400;
-    --bs-body-line-height: 1.5;
-    --bs-body-color: #212529;
+pre {
+    border: 3px solid rgba(255, 255, 255, 0.15);
+    padding: 10px;
+    color: #b5e853;
+    font-size: 0.7em;
+    border-radius: 2px;
 }
+
+/*
+  ZCZC
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px; 
+  color: #b5e853;
+  background: rgba(0, 0, 0, 0.9);
+  border-radius: 2px;
+  word-wrap: normal;
+  overflow: auto;
+  overflow-y: hidden;
+  max-width: 65%;
+ */
+
+/*
+ ************************************************************
+ */
 
 @media screen and (max-width:768px) {
     ul {
