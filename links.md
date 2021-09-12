@@ -19,3 +19,6 @@ untuk dipelajari secara bertahap.
 3. [Build custom minimal linux](https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source)<br>
 Learn what it takes to build a custom distribution, and how that distribution installs, loads and runs.
 You can run this exercise on either a physical or virtual machine.
+
+4. [Interactive VIM tutorial](https://www.openvim.com/)<br>
+Website yang bagus untuk belajar editor vim secara interaktif. Kamu bisa mencoba semua commandnya secara langsung seperti diconsole atau command prompt.
