@@ -11,4 +11,4 @@ ZCZC W01 05 L05 Quiz
 ZCZC W01 60 L09 Assignmet in General
 ZCZC W01 20 L02 Zoom meeting related
 ZCZC W01 20 L28 SSH, key-gen, tunneling, putty, winscp
-ZCZC W02 20 L13 Assignment #03
+ZCZC W01 20 L13 Assignment #03
