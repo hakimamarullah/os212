@@ -21,4 +21,4 @@ Learn what it takes to build a custom distribution, and how that distribution in
 You can run this exercise on either a physical or virtual machine.
 
 4. [Interactive VIM tutorial](https://www.openvim.com/)<br>
-Website yang bagus untuk belajar editor vim secara interaktif. Kamu bisa mencoba semua commandnya secara langsung seperti diconsole atau command prompt.
+Website yang bagus untuk belajar editor vim secara interaktif. Kamu bisa mencoba semua commandnya secara langsung seperti diconsole atau terminal.
