@@ -17,5 +17,5 @@ ZCZC W02 60  L25 Scripting
 ZCZC W02 60  L26 C-language
 ZCZC W02 60  L09 Assignment in General
 ZCZC W02 15  L27 GnuPG, key-gen, encrypt/decrypt.
-ZCZC WO2 20  L05 Quiz related
+ZCZC W02 20  L05 Quiz related
 ZCZC W02 15  L21 Trying something
