@@ -13,7 +13,7 @@ We have designed this tutorial after the completion of a deep research about eve
 2. [Linux from scratch](https://www.educba.com/linux-from-scratch)<br>
 Website ini berisi tutorial terkait linux seperti cara install linux, VMWare, ubuntu, debian, dan
 tools lainnya. Website ini juga berisi pembahasan command-command linux yang cukup lengkap. Website
-ini menarik karena semua materinya tersusun dengan rapi pada setiap sectionnya sendiri sehingga mudah
+ini menarik karena semua materinya tersusun dengan rapi pada setiap halamannya sendiri sehingga mudah
 untuk dipelajari secara bertahap.
 
 3. [Build custom minimal linux](https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source)<br>
