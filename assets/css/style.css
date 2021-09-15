@@ -1,6 +1,6 @@
 .plainclass {
-    color: white;
-    background-color: #1a1a1a;
+    color: black;
+    background-color: #F9FBFF;
 }
 
 .plainclass1 {
@@ -60,7 +60,7 @@
 }
 
 .navbar {
-    background-color: #262626;
+    background-color: #F9FBFF;
     color: #d7d7d7;
     font-size: 0.7em;
 }
