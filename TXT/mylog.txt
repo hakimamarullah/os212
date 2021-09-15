@@ -19,4 +19,3 @@ ZCZC W02 60  L09 Assignment in General
 ZCZC W02 15  L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 20  L05 Quiz related
 ZCZC W02 15  L21 Trying something
-ZCZC W02 30  L07 Demo related
