@@ -16,11 +16,3 @@ Quote for you
 >
 > \- Rainer Maria Rilke
 
-<blockquote>
-	<p>Let everything happen to you</p>
-	<p>Beauty and terror</p>
-	<p>Just keep going</p>
-	<p>No feeling is final</p>
-	<p>- Rainer Maria Rilke </p>
-</blockquote>
-
