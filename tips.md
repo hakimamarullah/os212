@@ -1,4 +1,6 @@
 ---
 layout: "layout"
-permalink: /tips/
+permalink: /TIPS/
 ---
+# TIPS
+> Some tips will be here soon:)
