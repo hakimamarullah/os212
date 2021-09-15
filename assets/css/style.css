@@ -1,11 +1,11 @@
 .plainclass {
-    color: black;
-    background-color: #F9FBFF;
+    color: white;
+    background-color: #1a1a1a;
 }
 
 .plainclass1 {
     color: black;
-    background-color: #F9FBFF;
+    background-color: #262626;
 }
 
 .container {
@@ -17,7 +17,7 @@
 }
 
 .container a {
-    color: black;
+    color: white;
 }
 
 .container a:hover {
@@ -60,7 +60,7 @@
 }
 
 .navbar {
-    background-color: #F9FBFF;
+    background-color: #262626;
     color: #d7d7d7;
     font-size: 0.7em;
 }
