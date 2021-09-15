@@ -4,8 +4,8 @@
 }
 
 .plainclass1 {
-    color: white;
-    background-color: #262626;
+    color: black;
+    background-color: #F9FBFF;
 }
 
 .container {
@@ -17,7 +17,7 @@
 }
 
 .container a {
-    color: #a0a0a0;
+    color: black;
 }
 
 .container a:hover {
