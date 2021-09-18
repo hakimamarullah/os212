@@ -3,13 +3,9 @@
     background-color: #1a1a1a;
 }
 
-/*.plainclass1 {
+.plainclass1 {
     color: white;
     background-color: #262626;
-}*/
-.plainclass1{
-   color:black;
-   background-color:white;
 }
 
 .container {
