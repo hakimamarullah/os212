@@ -33,3 +33,6 @@ Just click on the chapter you wish to begin from, and follow the instructions. G
 Protect your privacy with the Linux gpg command. Use world-class encryption to keep your secrets safe.
 We’ll show you how to use gpg to work with keys, encrypt files, and decrypt them.
 
+2. [What is cyber security](https://searchsecurity.techtarget.com/definition/cybersecurity)<br>
+Read about the basic knowledge about cyber security.
+
