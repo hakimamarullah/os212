@@ -25,4 +25,8 @@ Website yang bagus untuk belajar editor vim secara interaktif. Kamu bisa mencoba
 
 5. [Learn C-Language](https://www.learn-c.org)<br>
 This website is intended for everyone who wishes to learn the C programming language.There is no need to download anything, 
-Just click on the chapter you wish to begin from, and follow the instructions. Good luck!
+Just click on the chapter you wish to begin from, and follow the instructions. Good luck!  
+
+6. [How to Encrypt and Decrypt Files With GPG on Linux](https://www.google.com/amp/s/www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/amp/)
+Protect your privacy with the Linux gpg command. Use world-class encryption to keep your secrets safe.
+We’ll show you how to use gpg to work with keys, encrypt files, and decrypt them.
