@@ -36,3 +36,14 @@ We’ll show you how to use gpg to work with keys, encrypt files, and decrypt th
 2. [What is cyber security](https://searchsecurity.techtarget.com/definition/cybersecurity)<br>
 Read about the basic knowledge about cyber security.
 
+### W03
+1. [FUSE Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+Userspace filesystem is a filesystem in which data and metadata are provided by an ordinary userspace process.
+The filesystem can be accessed normally through the kernel interface. Follow the link to read more about FUSE.
+
+2. [What is a User Account?](https://www.howtogeek.com/school/windows-network-sharing/lesson1/)<br>
+A user account is a collection of settings and information that tells Windows which files and folders you can access,
+what you can do on your computer, what are your preferences, and what network resources you can access when connected to a network.
+
+3. [Virtual filesystems in Linux](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
+Virtual filesystems are the magic abstraction that makes the **"everything is a file"** philosophy of Linux possible.
