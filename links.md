@@ -47,3 +47,25 @@ what you can do on your computer, what are your preferences, and what network re
 
 3. [Virtual filesystems in Linux](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
 Virtual filesystems are the magic abstraction that makes the **"everything is a file"** philosophy of Linux possible.
+
+### W04
+1. [Brief of Address Binding](https://www.i2tutorials.com/os-introduction/os-address-binding/)<br>
+Address binding helps allocate a physical memory location to a logical pointer by associating a physical address to the logical address or the virtual address.
+
+2. [Difference between Compile Time and Load Time address Binding](https://www.geeksforgeeks.org/difference-between-compile-time-and-load-time-address-binding/)<br>
+Penjelasan terkait perbedaan antara address binding tipe compile time dengan load time.
+
+3. [Address space](https://www.ibm.com/docs/en/zos-basic-skills?topic=storage-what-is-address-space)<br>
+The range of virtual addresses that the operating system assigns to a user or separately running program is called an address space.
+This is the area of contiguous virtual addresses available for executing instructions and storing data
+
+4. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>
+Linking is the process of bringing external programs together required by the one we write for its successful execution.
+Static and dynamic linking are two processes of collecting and combining multiple object files in order to create a single executable.
+Here we will discuss the difference between them.
+
+5. [More about Dynamic & Static Linking](https://cs-fundamentals.com/c-programming/static-and-dynamic-linking-in-c.php)<br>
+Linker is system software which plays crucial role in software development because it enables separate compilation.
+Instead of organizing a large application as one monolithic source file, you can decompose it into smaller, more manageable
+chunks that can be modified and compiled separately. When you change one of the modules, you simply recompile it
+and re-link the application, without recompiling the other source files.
