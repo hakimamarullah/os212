@@ -69,3 +69,14 @@ Linker is system software which plays crucial role in software development becau
 Instead of organizing a large application as one monolithic source file, you can decompose it into smaller, more manageable
 chunks that can be modified and compiled separately. When you change one of the modules, you simply recompile it
 and re-link the application, without recompiling the other source files.
+
+### W05
+1. [Page-Buffering Algorithms](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+A computer can address more memory than the amount physically installed on the system.
+This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM.
+
+2. [Allocation of Frames](https://www.geeksforgeeks.org/operating-system-allocation-frames/)<br>
+Frame allocation algorithms are used if you have multiple processes; it helps decide how many frames to allocate to each process.
+
+3. [NUMA](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)<br>
+Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
