@@ -38,3 +38,7 @@ ZCZC W05 60  L09 Assignment in General
 ZCZC W05 05  L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W05 10  L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W05 40  L02 ZOOM meetings related
+ZCZC W06 120 L32 YouTube: study, etc.
+ZCZC W06 60  L09 Assignment in General
+ZCZC W06 25  L05 Quiz related
+ZCZC W06 60  L26 C-language
