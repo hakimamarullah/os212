@@ -42,3 +42,5 @@ ZCZC W06 120 L32 YouTube: study, etc.
 ZCZC W06 60  L09 Assignment in General
 ZCZC W06 25  L05 Quiz related
 ZCZC W06 60  L26 C-language
+ZCZC W06 80  L02 ZOOM meetings related
+ZCZC W06 40  L07 Demo related

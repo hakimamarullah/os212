@@ -80,3 +80,13 @@ Frame allocation algorithms are used if you have multiple processes; it helps de
 
 3. [NUMA](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)<br>
 Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
+
+### W06
+1. [fork() How Does it work?](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process).
+
+2. [Parallel vs Concurrent](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
+Learn the difference between Parallel and Concurrent process.
+
+3. [Process vs Parent Process vs Child Process](https://www.tutorialspoint.com/process-vs-parent-process-vs-child-process)<br>
+Learn more about process and the difference between parent and child process that can be created using fork().
