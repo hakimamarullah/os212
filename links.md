@@ -90,3 +90,17 @@ Learn the difference between Parallel and Concurrent process.
 
 3. [Process vs Parent Process vs Child Process](https://www.tutorialspoint.com/process-vs-parent-process-vs-child-process)<br>
 Learn more about process and the difference between parent and child process that can be created using fork().
+
+### W07
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Learn the concept of Process synchronization in an Operating System.
+
+2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Read the brief explanation of Deadlock in operating system.
+
+3. [Deadlock Characterization](https://www.tutorialspoint.com/deadlock-characterization)<br>
+Read some short explanation about deadlock characteristics.
+
+4. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
+Deadlock has following characteristics, Mutual Exclusion, Hold and Wait, No preemption, Circular wait
+We can prevent Deadlock by eliminating any of four conditions... [more](https://www.geeksforgeeks.org/deadlock-prevention/)

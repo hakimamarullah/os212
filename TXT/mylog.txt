@@ -44,3 +44,7 @@ ZCZC W06 25  L05 Quiz related
 ZCZC W06 60  L26 C-language
 ZCZC W06 80  L02 ZOOM meetings related
 ZCZC W06 40  L07 Demo related
+ZCZC W07 60  L02 ZOOM meetings related
+ZCZC W07 120 L09 Assignment in General
+ZCZC W07 20  L05 Quiz related
+ZCZC W07 40  L07 Demo related
