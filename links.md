@@ -104,3 +104,21 @@ Read some short explanation about deadlock characteristics.
 4. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 Deadlock has following characteristics, Mutual Exclusion, Hold and Wait, No preemption, Circular wait
 We can prevent Deadlock by eliminating any of four conditions... [more](https://www.geeksforgeeks.org/deadlock-prevention/)
+
+### W08
+1. [Preemptive and non-preemptive scheduling](https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html)<br>
+Preemptive Scheduling is a scheduling method where the tasks are mostly assigned with their priorities.
+Sometimes it is important to run a task with a higher priority before another lower priority task, even if the lower priority task is still running.
+
+2. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+The process scheduling is the activity of the process manager that handles the removal of the running process
+from the CPU and the selection of another process on the basis of a particular strategy...[more](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+
+3. [Multiprocessing](https://www.geeksforgeeks.org/difference-between-asymmetric-and-symmetric-multiprocessing/)<br>
+Learn about the difference between Asymmetric and Symmetric Multiprocessing.
+
+4. [Completely fair process scheduling in Linux](https://opensource.com/article/19/2/fair-scheduling-linux)<br>
+A brief explanation about CFS.
+
+5. [Scheduling (video)](https://youtu.be/EWkQl0n0w5M)<br>
+Basics of CPU Scheduling in Operating System.

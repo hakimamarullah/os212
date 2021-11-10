@@ -1,50 +1,56 @@
-# Log Format ZCZC WEEK# MINUTES LogCode Description
+#Log Format ZCZC WEEK# MINUTES LogCode Description
 #LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 120 L00 General, etc.
 ZCZC W00 120 L02 ZOOM meetings related.
-ZCZC W00 60  L03 Github related.
+ZCZC W00  60 L03 Github related.
 ZCZC W01 120 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 120 L02 ZOOM meetings related
-ZCZC W01 05  L05 Quiz
-ZCZC W01 60  L09 Assignmet in General
-ZCZC W01 20  L02 Zoom meeting related
-ZCZC W01 20  L28 SSH, key-gen, tunneling, putty, winscp
-ZCZC W01 20  L13 Assignment #03
+ZCZC W01  05 L05 Quiz
+ZCZC W01  60 L09 Assignmet in General
+ZCZC W01  20 L02 Zoom meeting related
+ZCZC W01  20 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01  20 L13 Assignment #03
 ZCZC W02 120 L02 ZOOM meetings related
-ZCZC W02 60  L32 YouTube: study, etc.
-ZCZC W02 60  L25 Scripting
-ZCZC W02 60  L26 C-language
-ZCZC W02 60  L09 Assignment in General
-ZCZC W02 15  L27 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W02 20  L05 Quiz related
-ZCZC W02 15  L21 Trying something
+ZCZC W02  60 L32 YouTube: study, etc.
+ZCZC W02  60 L25 Scripting
+ZCZC W02  60 L26 C-language
+ZCZC W02  60 L09 Assignment in General
+ZCZC W02  15 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02  20 L05 Quiz related
+ZCZC W02  15 L21 Trying something
 ZCZC W03 120 L02 ZOOM meetings related
-ZCZC W03 20  L25 Scripting
-ZCZC W03 40  L05 Quiz related
+ZCZC W03  20 L25 Scripting
+ZCZC W03  40 L05 Quiz related
 ZCZC W03 120 L09 Assignment in General
 ZCZC W04 120 L02 ZOOM meetings related
-ZCZC W04 20  L05 Quiz related
-ZCZC W04 40  L07 Demo related
-ZCZC W04 05  L27 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W04 15  L01 SCELE/Discord related
+ZCZC W04  20 L05 Quiz related
+ZCZC W04  40 L07 Demo related
+ZCZC W04  05 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W04  15 L01 SCELE/Discord related
 ZCZC W04 120 L09 Assignment in General
-ZCZC W04 40  L02 ZOOM meetings related
+ZCZC W04  40 L02 ZOOM meetings related
 ZCZC W05 120 L02 ZOOM meetings related
-ZCZC W05 10  L25 Scripting
-ZCZC W05 20  L05 Quiz related
-ZCZC W05 10  L26 C-language
-ZCZC W05 60  L09 Assignment in General
-ZCZC W05 05  L27 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W05 10  L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W05 40  L02 ZOOM meetings related
+ZCZC W05  10 L25 Scripting
+ZCZC W05  20 L05 Quiz related
+ZCZC W05  10 L26 C-language
+ZCZC W05  60 L09 Assignment in General
+ZCZC W05  05 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05  10 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W05  40 L02 ZOOM meetings related
 ZCZC W06 120 L32 YouTube: study, etc.
-ZCZC W06 60  L09 Assignment in General
-ZCZC W06 25  L05 Quiz related
-ZCZC W06 60  L26 C-language
-ZCZC W06 80  L02 ZOOM meetings related
-ZCZC W06 40  L07 Demo related
-ZCZC W07 60  L02 ZOOM meetings related
+ZCZC W06  60 L09 Assignment in General
+ZCZC W06  25 L05 Quiz related
+ZCZC W06  60 L26 C-language
+ZCZC W06  80 L02 ZOOM meetings related
+ZCZC W06  40 L07 Demo related
+ZCZC W07  60 L02 ZOOM meetings related
 ZCZC W07 120 L09 Assignment in General
-ZCZC W07 20  L05 Quiz related
-ZCZC W07 40  L07 Demo related
+ZCZC W07  20 L05 Quiz related
+ZCZC W07  40 L07 Demo related
+ZCZC W08 180 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W08 120 L09 Assignment in General
+ZCZC W08  60 L23 Linux CLI including tar, etc.
+ZCZC W08  20 L22 Quiz
+ZCZC W08 120 L02 ZOOM meetings related
+ZCZC W08  60 L32 YouTube: study, etc.
