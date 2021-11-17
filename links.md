@@ -122,3 +122,16 @@ A brief explanation about CFS.
 
 5. [Scheduling (video)](https://youtu.be/EWkQl0n0w5M)<br>
 Basics of CPU Scheduling in Operating System.
+
+
+## W09
+1. [GRUB](https://www.tutorialspoint.com/what-is-grub-in-linux)<br>
+The GRUB (Grand Unified Bootloader) is a bootloader available from the GNU project.. [more](https://www.tutorialspoint.com/what-is-grub-in-linux)
+
+
+2. [Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo)<br>
+A brief explanation about linux boot process to help you understand the basic.
+
+3. [What is RAID?](https://searchstorage.techtarget.com/definition/RAID)<br>
+RAID (redundant array of independent disks) is a way of storing the same data in different places on multiple
+hard disks or solid-state drives (SSDs) to protect data in the case of a drive failure.

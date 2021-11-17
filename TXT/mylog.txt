@@ -54,3 +54,10 @@ ZCZC W08  60 L23 Linux CLI including tar, etc.
 ZCZC W08  20 L22 Quiz
 ZCZC W08 120 L02 ZOOM meetings related
 ZCZC W08  60 L32 YouTube: study, etc.
+ZCZC W09 360 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W09  60 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W09  20 L05 Quiz related
+ZCZC W09 120 L32 YouTube: study, etc.
+ZCZC W09 120 L23 Linux CLI including tar, etc.
+ZCZC W09 120 L02 ZOOM meetings related
+ZCZC W09 720 L31 VirtualBox: install GNU/Linux, etc.
