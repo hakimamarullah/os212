@@ -61,3 +61,4 @@ ZCZC W09 120 L32 YouTube: study, etc.
 ZCZC W09 120 L23 Linux CLI including tar, etc.
 ZCZC W09 120 L02 ZOOM meetings related
 ZCZC W09 720 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W09  30 L27 GnuPG, key-gen, encrypt/decrypt.
