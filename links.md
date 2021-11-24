@@ -135,3 +135,14 @@ A brief explanation about linux boot process to help you understand the basic.
 3. [What is RAID?](https://searchstorage.techtarget.com/definition/RAID)<br>
 RAID (redundant array of independent disks) is a way of storing the same data in different places on multiple
 hard disks or solid-state drives (SSDs) to protect data in the case of a drive failure.
+
+## W10
+1. [Direct I/O](http://www.alexonlinux.com/what-is-direct-io-anyway)<br>
+A brief explanation about direct i/o to help you understand the basic.
+
+2. [Direct I/O vs Memory Mapped I/O](https://id.strephonsays.com/what-is-the-difference-between-memory-mapped-io-and-io-mapped-io)<br>
+Some simple explanation about the difference between direct i/o and memory mapped i/o.
+
+3. [Direct Memory Access](https://www.techopedia.com/definition/2767/direct-memory-access-dma)<br>
+Direct memory access (DMA) is a method that allows an input/output (I/O) device to send or receive data directly to or from the main memory,
+bypassing the CPU to speed up memory operations.
